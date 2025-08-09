@@ -1,0 +1,9 @@
+names:
+- '000000000002'
+- '000000000017'
+- 000000000018
+nc: 3
+path: /root/datasets/06-24-num2/
+test: ./val.txt
+train: ./train.txt
+val: ./test.txt

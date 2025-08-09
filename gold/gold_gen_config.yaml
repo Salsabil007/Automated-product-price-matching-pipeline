@@ -1,0 +1,5 @@
+seed: 1998
+box_thresh: 100
+write_label_files: false
+association:
+  num_img_to_label: 100
