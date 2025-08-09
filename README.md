@@ -1,4 +1,4 @@
-# Retail Product–Price Matching Pipeline
+# Automated Product-Price Matching Pipeline
 
 A high-performance computer vision and graph-based solution to automate product–price association from retail shelf images, achieving over **92% accuracy** in matching.
 
